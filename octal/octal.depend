@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694859118 source:c:\users\carto\documents\informatik\programmieren\hello world\octal\main.c
+	<stdio.h>
+	<stdlib.h>
+
